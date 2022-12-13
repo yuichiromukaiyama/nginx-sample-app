@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.content {
+  display: grid;
+  place-content: center;
+  width: 100vw;
+  height: 100dvh;
+  font-size: xx-large;
+}
